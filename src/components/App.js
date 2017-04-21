@@ -3,6 +3,7 @@ import React from 'react';
 export default class App extends React.Component {
   constructor() {
     super();
+    console.log('hello');
   }
 
   render() {
